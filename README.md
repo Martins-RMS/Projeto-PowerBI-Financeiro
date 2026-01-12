@@ -55,9 +55,6 @@ O objetivo: criar um dashboard que permita **insights claros e tomada de decisã
 - Matriz consolidando todas as medidas, com **formatação condicional**  
 - Botões de navegação e imagens de fundo para **padrão visual consistente**  
 
-> **Dica:** você pode colocar imagens do dashboard aqui usando:  
-> `![Nome da imagem](Imagens/nome_da_imagem.png)`
-
 ---
 
 ## 💡 Principais Insights

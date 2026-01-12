@@ -55,6 +55,10 @@ O objetivo: criar um dashboard que permita **insights claros e tomada de decisã
 - Matriz consolidando todas as medidas, com **formatação condicional**  
 - Botões de navegação e imagens de fundo para **padrão visual consistente**  
 
+![Dashboard Home](Imagens/dashboard%20home.png)
+![Dashboard Visão Geral](Imagens/dashboard%20visão%20geral.png)
+![Dashboard Detalhamento](Imagens/dashboard%20detalhamentol.png)
+
 ---
 
 ## 💡 Principais Insights
